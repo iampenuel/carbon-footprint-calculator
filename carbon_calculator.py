@@ -33,9 +33,9 @@ def main():
 
         # Output
         st.markdown(f"### Results")
-        st.success(f"🚗 **Driving CO₂:** {gas:.2f} tons/year")
-        st.info(f"💡 **Electricity CO₂:** {electricity:.2f} tons/year")
-        st.warning(f"🌍 **Total Annual Footprint:** {total:.2f} tons")
+        st.success(f"🚗 **Driving CO₂: ** {gas:.2f} tons/year")
+        st.info(f"💡 **Electricity CO₂: ** {electricity:.2f} tons/year")
+        st.warning(f"🌍 **Total Annual Footprint: ** {total:.2f} tons")
 
 if __name__ == "__main__":
     main()
