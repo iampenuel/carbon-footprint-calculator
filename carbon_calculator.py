@@ -37,7 +37,7 @@ def main():
         st.info(f"💡 **Electricity CO₂:** {electricity:.2f} tons/year")
         st.warning(f"🌍 **Total Annual Footprint:** {total:.2f} tons")
 
-        print(""Your journey to a lower carbon footprint begins with a single step. As Mahatma Gandhi said, 
+        st.write("""Your journey to a lower carbon footprint begins with a single step. As Mahatma Gandhi said, 
         'Be the change you wish to see in the world.' 
         Thank you for using this app to make a difference for our planet.""")
 
