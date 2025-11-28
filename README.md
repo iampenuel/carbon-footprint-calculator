@@ -35,4 +35,4 @@ Learning Python, Git, and AI...
 [LinkedIn](https://www.linkedin.com/inpenuel-stanley-zebulon)
 
 ## ❗️Disclaimer
-This tool is for educational purposes only! Actual CO₂ values may vary based on region, power sources, and whether your car is secretly a spaceship lol!
+This tool is for educational purposes only! Actual CO₂ values may vary based on different factors
