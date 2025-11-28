@@ -2,21 +2,21 @@
 
 Carbon Print is a friendly little Python tool that gently exposes your lifestyle’s environmental impact...
 
-## 🎯 What It Does
+## What It Does
 
 - Asks how many miles you drive per day  
 - Asks how much electricity you use per month  
 - Gives you a clean little summary in metric tons of carbon  
 - Built to show what you can do with variables, math, and empathy
 
-## 🧪 Skills Used
+## Skills Used
 
 - `input()`, `float()`, `print()` with f-strings  
 - Defined functions for modularity and clarity  
 - Constants and basic math calculations  
 - Zero external libraries (we rawdog Python here...)
 
-## 🖼️ Sample Run
+## Sample Run
 Miles per day driven? 25
 kWh per month used? 300
 
@@ -25,7 +25,7 @@ kWh per month used? 300
 🌍 Total: 5.25 tons
 
 
-## 👨‍💻 Built By
+## Built By
 
 Penuel Stanley-Zebulon  
 Electrical Engineering major @ Penn State  
